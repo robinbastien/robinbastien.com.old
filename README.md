@@ -1,4 +1,8 @@
 # robinbastien.com
 Source code for my personal Jekyll site at http://robinbastien.com
 
-## Adding content for first commit
+## Tools Used:
+ * CSS Framework:      Twitter Bootstrap 3
+ * Content Management: Jekyll
+ * Version Control:    Git (Github)
+ * Javascript Library: Sizzle.js
