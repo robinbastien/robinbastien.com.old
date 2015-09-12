@@ -6,3 +6,4 @@ Source code for my personal Jekyll site at http://robinbastien.com
  * Content Management: Jekyll
  * Version Control:    Git (Github)
  * Javascript Library: Sizzle.js
+ * Fonts Used:         Nanaimo
